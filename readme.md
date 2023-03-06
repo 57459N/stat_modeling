@@ -9,7 +9,7 @@
          6
     
 #
-    lab1_2: y = ax<sup>3</sup> + bx<sup>2</sup> + c
+    lab1_2: y = ax^3^ + bx~2~ + c
 
     a = 1 
     b = c = 2
