@@ -1,17 +1,22 @@
-Вариант 8
+Option 8
 #
-    lab1_1:
+    lab 1:
 
-    A = 5 -1     
-        1 -1 
+    A * X = B
 
-    B = 14
-         6
-    
-#
-    lab1_2: y = ax<sup>3</sup> + bx<sup>2</sup> + c
+    A = 5 -1        B = 14     
+        1 -1             6
+
+
+    y = a * x^3 + b * x^2 + c
 
     a = 1 
     b = c = 2
 
- #   
+#   
+    lab 2:
+    
+    M = 6500; K = 10
+    Uniform distribution [0, 1]
+    λ = 12.5
+#
