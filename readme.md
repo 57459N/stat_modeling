@@ -1,5 +1,7 @@
 Option 8
+
 #
+
     lab 1:
 
     A * X = B
@@ -13,10 +15,18 @@ Option 8
     a = 1 
     b = c = 2
 
-#   
+#     
+
     lab 2:
     
     M = 6500; K = 10
     Uniform distribution [0, 1]
     λ = 12.5
+
+#
+
+    lab 3:
+    
+    pdf = 0.1   on [0;10]
+
 #
